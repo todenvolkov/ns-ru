@@ -1,0 +1,21 @@
+a:2:{i:0;s:1612:"<div class="blocks">
+    <section class="block-one">
+      <h3>Ориентация на результат<br>
+        <span>Создание сайтов решающих реальные задачи бизнеса. Умение понять требования и предложить оптимальные решения</span></h3>
+      <p><img src="/uploads/images/box.png"  alt=""></p>
+      <a href="#" class="more">Подробнее</a>
+    </section>
+    <section class="block-two">
+      <h3>Каждый клиент<br>
+        охвачен вниманием<span>и всегда в курсе происходящего, благодаря системе управления проектами</span></h3>
+      <p><a href="http://www.teamworkpm.net/refer/nsystems" target="_blank"><img src="http://wwwstatic3.myteamworkpm.net/contentfiles/images/pageIconsv2/scheduleMilestones.png"  alt="TeamworkPM" border="0"> <img src="http://wwwstatic3.myteamworkpm.net/contentfiles/images/pageIconsv2/messages.png"  alt="TeamworkPM" border="0"></a></p>
+      <a href="#" class="more">Подробнее</a>
+    </section>
+    <section class="block-three">
+      <h3>Делаем сложное - простым<br>
+         <span>Чтобы не париться, и тратить время только на нужное</span></h3>
+      <p><img src="/themes/nsystems/images/pic-3.png" width="102" height="101" alt=""></p>
+      <a href="#" class="more">Подробнее</a>
+    </section>
+    <a href="/benefits" class="read-more">Все приемущества</a>
+</div>";i:1;N;}

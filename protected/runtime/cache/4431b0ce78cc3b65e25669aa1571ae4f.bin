@@ -1,0 +1,15 @@
+a:2:{i:0;a:6:{s:2:"id";s:1:"1";s:4:"name";s:9:"block-two";s:4:"code";s:9:"block_two";s:4:"type";s:1:"2";s:7:"content";s:1394:"echo '<h3>Нам доверяют</h3><div class="clearfix">
+<ul class="clearfix">
+    <li><a href="/portfolio/corp/6"><img src="/themes/nsystems/images/logo-1.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="/portfolio/card/25"><img src="/themes/nsystems/images/logo-2.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="/portfolio/card/26"><img src="/themes/nsystems/images/logo-3.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="/portfolio/ishop/27"><img src="/themes/nsystems/images/logo-4.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="#"><img src="/themes/nsystems/images/logo-5.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="/portfolio/special/8"><img src="/themes/nsystems/images/logo-6.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="#"><img src="/themes/nsystems/images/logo-7.jpg" width="126" height="83" alt=""></a></li>
+    <li><a href="#"><img src="/themes/nsystems/images/logo-8.jpg" width="126" height="83" alt=""></a></li></ul>
+        <a href="/portfolio" class="read-more">Показать всех</a> <span class="activities"><strong>Всего
+        <mark>';
+echo Yii::app()->db->createCommand("SELECT COUNT(id) FROM portfolio")->queryScalar();
+echo "</mark>
+        компании</strong> —  присоединяйтесь, с нами хорошо!</span></div>";";s:11:"description";s:0:"";}i:1;N;}
