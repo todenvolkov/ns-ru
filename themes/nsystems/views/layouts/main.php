@@ -11,7 +11,8 @@
 <meta name="keywords" content="<?=$this->keywords?>" />
 <meta name="description" content="<?=$this->description?>" />
 <!-- CSS: screen, mobile & print are all in the same file -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- эта хрень делает размер колонки 60px. Должна по крайней мере-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- эта хрень делает размер колонки 60px. Должна по крайней мере-->
 
 <link rel="stylesheet" href="<?=Yii::app()->theme->baseUrl?>/css/style.css" media="all" />
 <link rel="stylesheet" href="/lib/fancybox/jquery.fancybox.css" media="all" />
@@ -61,10 +62,15 @@
 
 <!-- here comes the javascript --> 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary --> 
-<script src="http://code.jquery.com/jquery-latest.min.js"></script> 
-<script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/js/slides.min.jquery.js"></script> 
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/js/slides.min.jquery.js"></script>
 <script src="<?=Yii::app()->theme->baseUrl?>/js/common.js" type="text/javascript"></script>
-<script type="text/javascript" src="/lib/fancybox/jquery.fancybox.pack.js"></script>  
+<script type="text/javascript" src="/lib/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $('#myModal').modal('hide');
+</script>
 <!-- this is where we put our custom functions --> 
 <!-- Asynchronous google analytics; this is the official snippet.
      Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

@@ -8831,3 +8831,1599 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2012/08/25 23:24:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/contacts
+---
+2012/08/25 23:48:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/contacts
+---
+2012/08/26 00:01:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/26 00:01:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/26 00:01:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/login
+---
+2012/08/26 00:01:53 [info] [application.modules.user] Пользователь admin@admin.ru авторизовался!
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/user/controllers/account/LoginAction.php (16)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:01:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/yupe/backend
+---
+2012/08/26 00:02:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:02:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:03:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:03:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/admin
+---
+2012/08/26 00:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/admin
+---
+2012/08/26 00:04:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/12
+---
+2012/08/26 00:04:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/12
+---
+2012/08/26 00:04:50 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(67): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/12
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (67)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:04:58 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(67): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/12
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (67)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:05:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/12
+---
+2012/08/26 00:05:07 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(69): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/12
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (69)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Страница не найдена!' in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/PageController.php:47
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): PageController->actionShow()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): CController->run('show')
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('page/page/show')
+#6 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#8 {main}
+REQUEST_URI=/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:05:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Страница не найдена!' in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/PageController.php:47
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): PageController->actionShow()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): CController->run('show')
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('page/page/show')
+#6 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#8 {main}
+REQUEST_URI=/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:05:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/contacts
+---
+2012/08/26 00:06:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/12
+---
+2012/08/26 00:06:55 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(67): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/12
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (67)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:06:58 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(67): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/12
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (67)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/26 00:07:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Страница не найдена!' in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/PageController.php:47
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): PageController->actionShow()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): CController->run('show')
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('page/page/show')
+#6 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#8 {main}
+REQUEST_URI=/pages/razrabotka-programmnogo-obespecheniya?preview=1
+---
+2012/08/26 00:07:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "pages".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('pages')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/pages/
+---
+2012/08/26 00:07:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/12
+---
+2012/08/26 00:07:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/admin
+---
+2012/08/26 00:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/view/id/12
+---
+2012/08/26 00:07:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/testirovanie-kachestva-sayta-?preview=1
+---
+2012/08/26 00:09:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/testirovanie-kachestva-sayta-?preview=1
+---
+2012/08/27 21:10:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:10:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:10:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "cost".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('cost')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/cost
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:13:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:16:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:16:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:19:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:19:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:19:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/login
+---
+2012/08/27 21:19:59 [info] [application.modules.user] Пользователь admin@admin.ru авторизовался!
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/user/controllers/account/LoginAction.php (16)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/27 21:19:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/yupe/backend
+---
+2012/08/27 21:20:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/category/default/admin
+---
+2012/08/27 21:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/businesstypes/default/admin
+---
+2012/08/27 21:20:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/feedback/default/admin
+---
+2012/08/27 21:20:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/yupe/backend/modulesettings/module/menu
+---
+2012/08/27 21:20:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/yupe/backend/modulesettings/module/menu
+---
+2012/08/27 21:24:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "menu".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php:484
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(271): CController->missingAction('menu')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): CController->run('menu')
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('yupe/backend/me...')
+#3 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/yupe/backend/menu/menu/admin
+---
+2012/08/27 21:24:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/admin
+---
+2012/08/27 21:24:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:24:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/addMenuItem
+---
+2012/08/27 21:25:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/40
+---
+2012/08/27 21:30:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:43:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:44:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/updateMenuItem/id/3
+---
+2012/08/27 21:44:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/3
+---
+2012/08/27 21:44:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/updateMenuItem/id/2
+---
+2012/08/27 21:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/2
+---
+2012/08/27 21:44:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:45:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/updateMenuItem/id/7
+---
+2012/08/27 21:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/7
+---
+2012/08/27 21:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:45:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/updateMenuItem/id/8
+---
+2012/08/27 21:45:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/8
+---
+2012/08/27 21:45:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/adminMenuItem
+---
+2012/08/27 21:45:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 21:46:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/addMenuItem
+---
+2012/08/27 21:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/viewMenuItem/id/41
+---
+2012/08/27 21:48:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/menu/menu/addMenuItem
+---
+2012/08/27 21:49:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/
+---
+2012/08/27 23:11:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2011
+---
+2012/08/27 23:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/card/28
+---
+2012/08/27 23:11:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/status/wip
+---
+2012/08/27 23:11:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/status/released
+---
+2012/08/27 23:11:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2009
+---
+2012/08/27 23:12:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2009?page=2
+---
+2012/08/27 23:12:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2009?page=3
+---
+2012/08/27 23:12:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2012
+---
+2012/08/27 23:12:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2011
+---
+2012/08/27 23:12:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2011?page=3
+---
+2012/08/27 23:12:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2008
+---
+2012/08/27 23:13:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/year/2008?page=3
+---
+2012/08/27 23:13:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/5
+---
+2012/08/27 23:13:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/10
+---
+2012/08/27 23:13:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/4
+---
+2012/08/27 23:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/3
+---
+2012/08/27 23:13:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/13
+---
+2012/08/27 23:13:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/sector/13?page=2
+---
+2012/08/27 23:13:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/corp/138
+---
+2012/08/27 23:14:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/portfolio/corp/138
+---
+2012/08/27 23:14:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/contacts
+---
+2012/08/27 23:15:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/services
+---
+2012/08/27 23:15:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:15:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/analysis-site
+---
+2012/08/27 23:15:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/testing
+---
+2012/08/27 23:16:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/order-processing
+---
+2012/08/27 23:16:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/download-site
+---
+2012/08/27 23:17:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/order-processing
+---
+2012/08/27 23:17:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/services
+---
+2012/08/27 23:18:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:40:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/admin
+---
+2012/08/27 23:40:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:41:10 [error] [php] Cannot modify header information - headers already sent by (output started at /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php:168) (/Users/denisvolkov/GIT/ns-ru/framework/web/CHttpRequest.php:716)
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php(69): DefaultController->redirect()
+#1 /Users/denisvolkov/GIT/ns-ru/framework/web/actions/CInlineAction.php(50): DefaultController->actionUpdate()
+#2 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(309): CInlineAction->runWithParams()
+#3 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(134): DefaultController->runAction()
+#4 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#5 /Users/denisvolkov/GIT/ns-ru/framework/web/filters/CFilterChain.php(131): YBackAccessControl->filter()
+#6 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(292): CFilterChain->run()
+#7 /Users/denisvolkov/GIT/ns-ru/framework/web/CController.php(266): DefaultController->runActionWithFilters()
+#8 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(276): DefaultController->run()
+#9 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#10 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Users/denisvolkov/GIT/ns-ru/index.php(15): CWebApplication->run()
+REQUEST_URI=/page/default/update/id/6
+in /Users/denisvolkov/GIT/ns-ru/protected/modules/page/controllers/DefaultController.php (69)
+in /Users/denisvolkov/GIT/ns-ru/index.php (15)
+2012/08/27 23:41:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:43:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:45:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:46:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:48:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:48:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/27 23:50:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/27 23:50:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:04:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:04:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:05:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:05:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:06:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:06:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:10:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:10:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:10:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:11:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:14:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:14:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:20:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:20:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:23:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:28:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:29:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:30:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:30:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:35:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:35:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:35:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:37:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:39:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:39:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:40:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:40:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:40:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:41:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:41:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:42:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:42:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:43:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:44:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:48:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:49:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:49:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/page/default/update/id/6
+---
+2012/08/28 00:52:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 00:52:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
+2012/08/28 08:24:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/1c8225c0/css/bootstrap-yii.css".' in /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Users/denisvolkov/GIT/ns-ru/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/1c8225c0...')
+#1 /Users/denisvolkov/GIT/ns-ru/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Users/denisvolkov/GIT/ns-ru/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/1c8225c0/css/bootstrap-yii.css
+HTTP_REFERER=http://ns-ru.rus:8080/pages/tehnicheskoe-zadanie
+---
